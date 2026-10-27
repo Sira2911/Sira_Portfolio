@@ -1,0 +1,55 @@
+body {
+   background-color: rgb(71, 8, 67);
+    
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #00000042;
+    padding: 10px;
+}  
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+
+  font-family: "Clarity City", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+
+}
+img {
+    width: 20%;
+    height: auto;
+     margin-right: 20px;
+    border: 2px solid rgba(255, 255, 255, 0.747);
+    margin-bottom: 20px;
+}
+div#images {
+    display: inline-block;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+   
+}
+h1 {
+    color: white;
+    font-family: "Clarity City", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+button {
+    background-color: #00000042;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-family: "Clarity City", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}

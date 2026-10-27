@@ -1,0 +1,39 @@
+body {
+   background-color: rgb(71, 8, 67);
+    
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #00000042;
+    padding: 10px;
+}  
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+
+  font-family: "Clarity City", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+
+}
+h1 {
+    color: white;
+    font-family: "Clarity City", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+}
+p {
+    color: white;
+    font-family: "Clarity City", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 30px;
+     text-align: center;
+}
